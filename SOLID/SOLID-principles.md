@@ -235,7 +235,3 @@ var drawingApplication = {
 **D - Dependency inversion principle**
 ------------------
 This principle states that high-level modules should not depend on low-level modules.  Both should depend on abstractions. Similarly abstractions should not depend upon details.  Details should depend upon abstractions. This renders high-level modules highly reusable and ensures that important parts of an application or framework aren’t affected when the low level components need to change.
-
-Example
-***
-```
