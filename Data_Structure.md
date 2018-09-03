@@ -125,7 +125,7 @@ class Heap {
   }
 }
 
-let heap = new MinHeap();
+let heap = new Heap();
 
 heap.insert(5);
 heap.insert(4);
